@@ -18,8 +18,8 @@ public class Application{
             System.out.println(" Let's inspect controller by spring");
             String[] beanNames = ctx.getBeanDefinitionNames();
             Arrays.sort(beanNames);
-            for(String i : beanNames){
-                System.out.println(i);
+            for(String int11 : beanNames){
+                System.out.println(int11);
             }
         };
     }

@@ -7,5 +7,6 @@ public class SimpleController {
     @RequestMapping("/")
     public String index(){
         return "Hello my name is swaraj !";
+
     }
 }
